@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pilot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="members">
+        <item>hajela</item>
+          <item>mittal</item>
+            <item>rahil</item>
+              <item>ranjan</item>
+                <item>shivansh</item>
+                  <item>jagdeep</item>
+         </string-array>
+                  
+        <string name="drawer_open">open navigation drawer</string>
+         <string name="drawer_close">close navigation drawer</string>
+        
+   
+</resources>
